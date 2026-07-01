@@ -2,14 +2,6 @@
 📖KnowledgeGPT
 </h1>
 
-<div id="top" align="center">
-
-![GitHub](https://img.shields.io/github/license/Osama-AI-DEV-UTech/Knowledge_GPT)
-![GitHub Repo stars](https://img.shields.io/github/stars/Osama-AI-DEV-UTech/Knowledge_GPT?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Osama-AI-DEV-UTech/Knowledge_GPT?style=social)
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter)](https://twitter.com/)
-
-</div>
 
 **Accurate answers and instant citations for your documents.**
 
@@ -89,7 +81,3 @@ Currently, the max upload size is 25MB for the hosted version.
 
 All contributions are welcome!
 
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=mmz-001/knowledge_gpt&type=Date)](https://star-history.com/#mmz-001/knowledge_gpt&Date)
