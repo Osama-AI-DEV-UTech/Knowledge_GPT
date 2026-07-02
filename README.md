@@ -7,7 +7,7 @@
 
 Upload your documents and get answers to your questions, with citations from the text.
 
-[Demo]()
+[Demo](https://knowledge-gpt-ai.streamlit.app/)
 
 ## Installation
 
