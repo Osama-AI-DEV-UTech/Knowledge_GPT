@@ -21,7 +21,7 @@ questions. All uploaded data is deleted after you close the browser tab.
 
 ## Why does it take so long to index my document?
 If you are using a free OpenAI API key, it will take a while to index
-your document. This is because the free API key has strict [rate limits](https://platform.openai.com/docs/guides/rate-limits/overview).
+your document. This is because the free API key has strict rate limits.
 To speed up the indexing process, you can use a paid API key.
 
 ## What do the numbers mean under each source?
@@ -44,3 +44,5 @@ most questions. Always check with the sources to make sure that the answers
 are correct.
 """
     )
+
+

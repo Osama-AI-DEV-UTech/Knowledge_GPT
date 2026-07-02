@@ -34,10 +34,10 @@ def sidebar():
         )
         st.markdown(
             "This tool is a work in progress. "
-            "You can contribute to the project on [GitHub](https://github.com/mmz-001/knowledge_gpt) "  # noqa: E501
+            "You can contribute to the project on [GitHub](https://github.com/Osama-AI-DEV-UTech/Knowledge_GPT) "  # noqa: E501
             "with your feedback and suggestions💡"
         )
-        st.markdown("Made by [mmz_001](https://twitter.com/mm_sasmitha)")
+        st.markdown("Made by Osama Ahmed")
         st.markdown("---")
 
         faq()
